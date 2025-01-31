@@ -1,5 +1,4 @@
-## Hi there 👋
-# 💫 About Me:
+
 I'm currently study at GTU''26 for CSE branch 
 
 
