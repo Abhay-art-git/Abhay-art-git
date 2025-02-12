@@ -25,7 +25,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhay-art-git&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay-art-git&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?username=Abhay-art-git&theme=tokyonight" />
 </p>
 
 <p align="center">
