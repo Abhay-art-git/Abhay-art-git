@@ -16,7 +16,7 @@
 ## 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,express,django,html,css,tailwind,bootstrap,git,github,postgres,mysql ,springboot , numpy , matplotlib , scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,express,django,html,css,tailwind,bootstrap,git,github,postgres,mysql ,springboot" />
 </p>
 
 ---
