@@ -65,11 +65,6 @@
 ---
 
 
-<p align="center">
-  <img src="https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ⭐ **Feel free to explore my repositories and star them if you like!** ⭐  
 
