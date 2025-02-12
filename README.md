@@ -25,7 +25,6 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhay-art-git&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?username=Abhay-art-git&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -53,11 +52,7 @@
 
 ---
 
-## 🎵 Now Playing on Spotify  
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-username&cover_image=true&theme=default" />
-</p>
 
 ---
 
@@ -69,7 +64,6 @@
 
 ---
 
-### 🐍 Contribution Snake  
 
 <p align="center">
   <img src="https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg" />
