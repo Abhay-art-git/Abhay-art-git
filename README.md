@@ -27,9 +27,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhay-art-git&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-art-git&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 
