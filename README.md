@@ -42,7 +42,7 @@
   <a href="https://x.com/mahtoabhay0007?t=dtkdLKY6BboQGtjUsO4cfw&s=08" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="http://127.0.0.1:5500/UI/index.html#" target="_blank">
     <img src="http://127.0.0.1:5500/UI/index.html#" />
   </a>
   <a href="mahtoabhay1111@gmail.com">
