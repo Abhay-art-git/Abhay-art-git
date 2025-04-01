@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="http://127.0.0.1:5500/UI/index.html#" target="_blank">
-    <img src="http://127.0.0.1:5500/UI/index.html#" />
+    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=Portfolio&logoColor=white" />
   </a>
   <a href="mahtoabhay1111@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
